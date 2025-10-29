@@ -1,6 +1,6 @@
 # Stan ChatBot - Human-like Conversational AI
 
-A sophisticated chatbot with long-term memory and emotional intelligence, built for the STAN Internship Challenge.
+A sophisticated chatbot with long-term memory and emotional intelligence.
 
 ## 🚀 Features
 
